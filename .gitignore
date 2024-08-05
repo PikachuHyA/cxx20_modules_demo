@@ -1,0 +1,5 @@
+*.o
+*.pcm
+*.d
+*.ii.lz4
+demo
